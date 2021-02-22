@@ -1,3 +1,3 @@
 # Spotify-Genre-Analysis
 
-hello dis is test, pleaz like my git
+This is a machine learning classifier. The aim of this project is to sort music by genre depending on the music's characteristics.
